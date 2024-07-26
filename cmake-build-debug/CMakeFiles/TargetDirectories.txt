@@ -1,0 +1,3 @@
+C:/Proyecto_Parcial4/cmake-build-debug/CMakeFiles/Proyecto_Parcial4.dir
+C:/Proyecto_Parcial4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Proyecto_Parcial4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

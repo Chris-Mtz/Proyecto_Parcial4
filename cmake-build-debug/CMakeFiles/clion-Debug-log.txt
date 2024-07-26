@@ -1,0 +1,5 @@
+"C:\Users\crist\Clion\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=ninja.exe -DCMAKE_C_COMPILER=cl.exe -DCMAKE_CXX_COMPILER=cl.exe -DCMAKE_TOOLCHAIN_FILE=C:\Users\crist\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S C:\Proyecto_Parcial4 -B C:\Proyecto_Parcial4\cmake-build-debug
+-- Found SFML 2.6.1 in C:/Users/crist/.vcpkg-clion/vcpkg/installed/x64-windows/share/sfml
+-- Configuring done (8.2s)
+-- Generating done (0.3s)
+-- Build files have been written to: C:/Proyecto_Parcial4/cmake-build-debug
